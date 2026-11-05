@@ -210,8 +210,3 @@ Total adaptation time: **~2 hours**. The portability is the actual product — s
 ## 📝 License
 
 MIT — see [`LICENSE`](LICENSE).
-
----
-
-> Built by Kirill ([@KirillHat](https://github.com/KirillHat)).
-> If you want this adapted to your business, [hire me on Upwork](https://www.upwork.com/freelancers/~kirhat).
